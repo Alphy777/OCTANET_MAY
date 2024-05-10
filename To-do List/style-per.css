@@ -10,7 +10,7 @@ header{
 }
 nav{
     width: 100%;
-    background: #0a0a0a;
+    background: #503e72;
     height: max-content;
     display: flex;
     flex-direction: row;
@@ -50,7 +50,7 @@ nav{
     list-style: none;
 }
 .main{
-    background-image: url('images/body-bg.jpg');
+    background-image: url('images/bg-per.jpg');
     background-size: cover;
     background-position: top;
     width: 100%;
@@ -66,13 +66,14 @@ nav{
     height: 420px;
     backdrop-filter: blur(100px);
     border-radius: 10%;
-    box-shadow: 0 0 40px gray;
+    box-shadow: 0 0 40px rgb(0, 0, 0);
     cursor: inherit;
 }
 .container h2{
-    color: snow;
+    color: #000;
     text-align: center;
     padding-top: 20px;
+    font-family: cursive;
 }
 .container a{
     color: rgb(0, 132, 255);
@@ -99,17 +100,19 @@ nav{
 input{
     background: transparent;
     border: none;
-    border-bottom: 2px solid snow;
+    border-bottom: 2px solid #000;
     color: snow;
     height: 2em;
     outline: none;
     cursor: pointer;
 }
+::placeholder{
+    color: #000;
+}
 input[type="date"] {
-    filter: invert(1) hue-rotate(180deg);
     border: none;
     outline: none;
-    color: #6e6d6d;
+    color: #000;
 }
 .todo-list:has(.todo-chk:checked){
     color: red;
@@ -124,14 +127,13 @@ input[type="date"] {
 select{
     width: 65px;
     background: transparent;
-    color: #bababa;
     border: none;
     outline: none;
 }
 footer{
     text-align: center;
     height: max-content;
-    background-color: #181818;
+    background-color: #04275c;
 }
 footer p{
     color: snow;

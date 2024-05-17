@@ -8,5 +8,5 @@ https://github.com/Alphy777/OCTANET_MAY/assets/126680403/57344569-b74a-4ffe-b1f9
 
 TASK 2(Completed ON 09/05/24)
 
-<img width="480" alt="image" src="https://github.com/Alphy777/OCTANET_MAY/assets/126680403/6de0a0e3-534d-4a08-a25e-8735bcbc065b"><img width="480" alt="image" src="https://github.com/Alphy777/OCTANET_MAY/assets/126680403/1c3974fa-5ba1-4c1b-8374-fd276cd60e21">
-
+![Screenshot 2024-05-12 004116](https://github.com/Alphy777/OCTANET_MAY/assets/126680403/4d6669da-b633-40be-b30f-6371ba365cbf)
+![Screenshot 2024-05-12 004136](https://github.com/Alphy777/OCTANET_MAY/assets/126680403/ffd8db86-7a12-438f-ae3d-0c978816f154)
